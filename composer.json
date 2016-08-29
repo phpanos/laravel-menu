@@ -1,0 +1,13 @@
+{
+    "name": "phpanos/laravel-menu",
+    "description": "A simple menu creator for Laravel.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Panos",
+            "email": "phpanos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
